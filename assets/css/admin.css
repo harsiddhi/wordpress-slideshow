@@ -1,0 +1,23 @@
+.images_lists li{
+    border: 2px solid #000 !important;
+    padding: 10px !important;
+    box-shadow: 10px 10px 5px #888888;
+    width: 150px;
+    height: 170px;
+    text-align:center;
+}
+.container .slideshow_images {
+    padding-top: 50px;
+}
+.slideshow_images .wrap_img{
+    display: block;
+    float: left;
+    padding-right: 15px;
+
+}
+.slideshow_images .img_container{
+    padding-left: 15px;
+}
+.img_container .save_slides_order{
+    float: left;
+}
