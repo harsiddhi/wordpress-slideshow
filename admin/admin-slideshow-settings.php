@@ -54,7 +54,7 @@ function wp_slideshow_settings_page() {
 	?>
     <div class='container wrap'>
         <h1>Slideshow Setting Page</h1>
-        <h2>If u want to add slideshow in page please use [flex_slide_show] short code.</h2>
+        <h2>If u want to add slideshow in page please use [front_slide_show] short code.</h2>
         <h2>you can also change image order and save it .</h2>
         <h2>You can change order of slides by dragging up and down.</h2>
 
