@@ -1,9 +1,13 @@
-# rtcamp_slideshow_wp_assignment
+# slideshow_wp
 Following plugin contain assignment given by RT-Camp for slideshow demo with ordering of slides feature and shown in frontend with the help of shortcode [front_slide_show].
 ## Information
 **Author**: Harsiddhi Thakkar  
 **Version**: 1.0  
 **License**:GPL-2.0+  
+## Coding View 
+**Coding Standard**: Yes  
+**OOPs**: Yes  
+**Security**Yes
 ## Major features
 * Create a slideshow for wordpress website using short code
 * Admin can reorder slides
@@ -31,5 +35,7 @@ rtcamp_slideshow_wp_assignment
 ![alt text](sn2.png)
 
 ![alt text](sn1.png)
+
+
 
 
