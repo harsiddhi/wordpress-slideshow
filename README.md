@@ -4,10 +4,6 @@ Following plugin contain assignment given by RT-Camp for slideshow demo with ord
 **Author**: Harsiddhi Thakkar  
 **Version**: 1.0  
 **License**:GPL-2.0+  
-## Coding View 
-**Coding Standard**: Yes  
-**OOPs**: Yes  
-**Plugin Security**:Yes
 ## Major features
 * Create a slideshow for wordpress website using short code
 * Admin can reorder slides
